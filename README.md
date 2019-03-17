@@ -1,4 +1,4 @@
-# swiping_app
+# Swiping App
 
 App is meant to mock the UI of Tinder to create a template for a card-swiping app. This is not intended to be used as is.
 
