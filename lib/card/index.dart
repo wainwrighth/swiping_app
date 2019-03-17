@@ -161,7 +161,7 @@ class CardDemoState extends State<CardDemo> with TickerProviderStateMixin {
               },
             ),
             new RoundIconButton.small(
-              icon: Icons.timeline,
+              icon: Icons.flash_on,
               iconColor: Colors.purple,
               iconSize: 30,
               onPressed: () {
